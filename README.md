@@ -1,2 +1,2 @@
 # iNeuron-Assignment1
-first Assignment of Full stack Data Analyst course from i
+first Assignment of Full stack Data Analyst course from iNeuron.
